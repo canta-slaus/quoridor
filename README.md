@@ -2,7 +2,7 @@
 [Quoridor](https://en.wikipedia.org/wiki/Quoridor) is a zero-sum strategic board game with complete information. It was initially designed by Marko Marchesi based on [Blockade](https://en.wikipedia.org/wiki/Blockade_(board_game)) by Philip Slater.
 
 ## Gameplay
-![Starting board for a 4-player game](https://en.wikipedia.org/wiki/File:Quoridor-game-board-initial-position.svg)
+![Example board for a 4-player game](https://upload.wikimedia.org/wikipedia/commons/e/ef/Quidor_Wall.jpg?20070319181257)
 
 Quoridor is played on a 9x9 board, either as a 2-player game (red and blue) or as a 4-player game. The goal of each player is to get to the other side of the board. So the red player would have to reach the very bottom row of the board and the blue player would have to reach the very top row, respectively. During their turn players can either move or place a wall. They can move to any adjacent tile that is not blocked by wall but can't move diagonally. There is also rules that allow players to jump over another player (see the Wikipedia entry for the full set of rules). In a 2-player game both players get 10 walls each (in a 4-player game everyone gets 5). A wall is two tiles wide and can be placed between tiles - they prevent players from moving as walls can't be jumped. Walls can't be placed on top of each other (on an actual board this is physically impossible) and one may not place a wall such that a player can't reach their goal.
 
